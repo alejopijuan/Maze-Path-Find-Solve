@@ -1,4 +1,4 @@
-Make a Python3 file that satisfies the following requirements:
+Requirements:
 
     The file must define a class named Stack that implements a stack.
 

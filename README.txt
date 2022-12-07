@@ -1,3 +1,6 @@
+The Python program looks at path and possible moves to make, then takes the move action in that direction.
+
+
 Requirements:
 
     The file must define a class named Stack that implements a stack.
